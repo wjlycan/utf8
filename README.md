@@ -1,5 +1,5 @@
 # utf8
-utf8 &lt;=> unicode
+utf8 &lt;=> utf16
 
         // print src string
     printf("wchar_t=%u", (unsigned int)sizeof(wchar_t));
